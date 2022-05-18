@@ -1,6 +1,8 @@
 # Blog posts
 
-Links to my blog posts...
+Links to my blog posts etc...
+
+- [Paving the way: The EDITED Women ERG 2021/22 Report](https://edited.com/wp-content/uploads/2022/04/EDITED-Women-202122-Report.pdf) (on Insights EDITED)
 
 - [Looking to the future: Introducing EDITED Women](https://inside.edited.com/looking-to-the-future-introducing-edited-women-6e6b1a6fa1b7) (on Inside EDITED)
 
